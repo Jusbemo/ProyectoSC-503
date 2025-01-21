@@ -12,7 +12,7 @@
 	<artifactId>tienda</artifactId>
 	<version>0.0.1</version>
 	<name>tienda</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Proyecto Patrones y Diseño Web</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -28,7 +28,7 @@
 	</scm>
 	<properties>
 		<java.version>23</java.version>
-	 <maven.compiler.release>17</maven.compiler.release>
+	 <maven.compiler.release>23</maven.compiler.release>
 	</properties>
 	<dependencies>
 		<dependency>
